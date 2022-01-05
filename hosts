@@ -1,0 +1,6 @@
+[hosts]
+ec2-3-111-52-239.ap-south-1.compute.amazonaws.com
+ec2-13-234-31-171.ap-south-1.compute.amazonaws.com
+[dev]
+ec2-3-111-52-234.ap-south-1.compute.amazonaws.com
+ec2-13-234-31-151.ap-south-1.compute.amazonaws.com
